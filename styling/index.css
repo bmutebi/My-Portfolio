@@ -180,13 +180,13 @@ header h5 {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    margin: 5px 0;
+    margin: 5px auto;
     width: 100%;
 }
 
 .projects .project-tile {
     position: relative;
-    width: 48%;
+    width: 45%;
     margin: 10px;
     display: inline-block;
     overflow: hidden;
