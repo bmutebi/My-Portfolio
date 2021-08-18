@@ -268,7 +268,7 @@ textarea {
     width: 100%;
     padding: 12px;
     border: none;
-    border: 1px solid lightgrey;
+    border-bottom: 1px solid lightgrey;
     background: transparent;
     margin-top: 6px;
     margin-bottom: 16px;
@@ -285,7 +285,7 @@ textarea:focus {
 
 .mail-link {
     color: #fff;
-    text-decoratiion-style: dotted;
+    text-decoration-style: dotted;
 }
 
 input[type="submit"] {
