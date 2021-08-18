@@ -27,6 +27,10 @@ a {
     text-decoration: none;
 }
 
+.name {
+    color: #ccd6f6;
+}
+
 img {
     width: 100%;
 }
