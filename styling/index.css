@@ -392,7 +392,7 @@ footer {
 
     .mobile-nav a {
         width: 100%;
-        color: #b2b2b2;
+        color: #ccd6f6;
         text-transform: uppercase;
         font-size: 0.875em;
         letter-spacing: 2px;
@@ -402,8 +402,8 @@ footer {
     }
 
     .mobile-nav a:hover {
-        background: #b2b2b2;
-        color: #222;
+        background: #8892b0;
+        color: #ccd6f6;
     }
 }
 
