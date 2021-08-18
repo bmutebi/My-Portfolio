@@ -283,7 +283,7 @@ textarea:focus {
     border: 1px solid lightgrey;
 }
 
-.mail-link {
+.mail-link a {
     color: #fff;
     text-decoration-style: dotted;
 }
