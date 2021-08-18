@@ -149,14 +149,15 @@ header h5 {
 
 .container {
     width: 100%;
-    background: #020c1b;
+    background: #495670;
+    border-radius: 5px;
 }
 
 .skills {
     text-align: right;
     padding-right: 20px;
     line-height: 30px;
-    color: #ccd6f6;
+    color: #495670;
     background: #ccd6f6;
 }
 
