@@ -129,8 +129,12 @@ header h5 {
 }
 
 .about a {
-    color: #b2b2b2;
+    color: #64ffda;
     border-bottom: 2px solid #b2b2b2; 
+}
+
+.about a:hover {
+    border-bottom: 1px solid #64ffda; 
 }
 
 .about p {
