@@ -262,7 +262,7 @@ header h5 {
 }
 
 label {
-    color: #b2b2b2;
+    color: #a8b2d1;
 }
 
 form input[type="text"],
@@ -272,19 +272,19 @@ textarea {
     width: 100%;
     padding: 12px;
     border: none;
-    border-bottom: 1px solid #d0cdcd;
+    border-bottom: 1px solid #ccd6f6;
     background: transparent;
     margin-top: 6px;
     margin-bottom: 16px;
     resize: vertical;
-    color: #b2b2b2;
+    color: #ccd6f6;
 } 
 
 form input[type="text"]:focus,
 form input[type="email"]:focus,
 textarea:focus {
     outline: none;
-    border: 1px solid #d0cdcd;
+    border: 1px solid #ccd6f6;
 }
 
 .mail-link {
@@ -297,14 +297,14 @@ button {
     color: #b2b2b2;
     text-transform: uppercase;
     padding: 12px 20px;
-    border: 1px solid #d0cdcd;
+    border: 1px solid #ccd6f6;
     cursor: pointer;
     transition: all 0.35s;
     margin-bottom: -10%;
 }
 
 button:hover {
-    background: #b2b2b2;
+    background: #ccd6f6;
     color: #222;
 }
 
