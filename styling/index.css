@@ -11,11 +11,15 @@
 body {
     margin: 0;
     padding: 0;
-    background: #000;
-    color: #d0cdcd;
+    background: #020c1b;
+    color: #8892b0;
     font-family: 'Oxygen', sans-serif;
     display: grid;
     grid-column: repeat(8% auto);
+}
+
+h1, h2, h3, h4, h5, h6 {
+     color: #8892b0;
 }
 
 a {
@@ -284,7 +288,7 @@ textarea:focus {
 }
 
 .mail-link {
-    color: #fff;
+    color: #64ffda;
     text-decoration-style: dotted;
 }
 
