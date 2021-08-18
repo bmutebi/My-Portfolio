@@ -288,7 +288,7 @@ textarea:focus {
     text-decoration-style: dotted;
 }
 
-input[type="submit"] {
+button {
     background: transparent;
     color: #b2b2b2;
     text-transform: uppercase;
@@ -299,7 +299,7 @@ input[type="submit"] {
     margin-bottom: -10%;
 }
 
-input[type="submit"]:hover {
+button:hover {
     background: #b2b2b2;
     color: #222;
 }
