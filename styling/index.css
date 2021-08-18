@@ -159,6 +159,7 @@ header h5 {
     line-height: 30px;
     color: #495670;
     background: #ccd6f6;
+    border-radius: 5px 0 0 5px;
 }
 
 .html {
@@ -295,7 +296,7 @@ textarea:focus {
 
 button {
     background: transparent;
-    color: #b2b2b2;
+    color: #ccd6f6;
     text-transform: uppercase;
     padding: 12px 20px;
     border: 1px solid #ccd6f6;
@@ -305,7 +306,7 @@ button {
 }
 
 button:hover {
-    background: #ccd6f6;
+    background: #8892b0;
     color: #ccd6f6;
 }
 
