@@ -128,12 +128,11 @@ header h5 {
     padding-top: 50px;
 }
 
-.about a {
+.about a, .mail-link {
     color: #64ffda;
-    border-bottom: 2px solid #b2b2b2; 
 }
 
-.about a:hover {
+.about a:hover, .mail-link {
     border-bottom: 1px solid #64ffda; 
 }
 
@@ -293,10 +292,10 @@ textarea:focus {
     border: 1px solid #ccd6f6;
 }
 
-.mail-link {
+/* .mail-link {
     color: #64ffda;
     text-decoration-style: dotted;
-}
+} */
 
 button {
     background: transparent;
