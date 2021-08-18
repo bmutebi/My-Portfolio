@@ -293,7 +293,7 @@ button {
     color: #b2b2b2;
     text-transform: uppercase;
     padding: 12px 20px;
-    border: 1px solid #222;
+    border: 1px solid #d0cdcd;
     cursor: pointer;
     transition: all 0.35s;
     margin-bottom: -10%;
