@@ -272,6 +272,10 @@ header h5 {
     background: #8892b0;;
 }
 
+.content {
+    width: 100%;
+}
+
 label {
     color: #a8b2d1;
 }
