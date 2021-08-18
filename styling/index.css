@@ -138,7 +138,7 @@ header h5 {
     text-decoration: none;
 }
 
-.about a:hover, .mail-link {
+.about a:hover, .mail-link:hover {
     border-bottom: 1px solid #64ffda; 
 }
 
