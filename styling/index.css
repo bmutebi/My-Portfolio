@@ -247,8 +247,8 @@ header h5 {
 
 .projects .project-tile .details .content h2 {
     margin: 0 auto;
-    padding: 0 0 20px 0;
-    margin-bottom: 20px;
+    padding: 0 0 10px 0;
+    margin-bottom: 10px;
     font-size: 20px;
     color: #fff;
     width: 70%;
@@ -268,8 +268,8 @@ header h5 {
 }
 
 .projects .project-tile .details .content a:hover {
-    color: #000;
-    background: #b2b2b2;;
+    color: #ccd6f6;
+    background: #8892b0;;
 }
 
 label {
