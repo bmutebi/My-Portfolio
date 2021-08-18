@@ -134,7 +134,7 @@ header h5 {
 }
 
 .about p {
-    color: #b2b2b2;
+    color: #ccd6f6;
 }
 
 .about span {
@@ -156,7 +156,7 @@ header h5 {
     text-align: right;
     padding-right: 20px;
     line-height: 30px;
-    color: #fff;
+    color: #ccd6f6;
     background: #424242;
 }
 
@@ -217,7 +217,7 @@ header h5 {
     bottom: 10px;
     text-align: center;
     background: rgba(0,0,0,.8);
-    color: #fff;
+    color: #ccd6f6;
     transform: scaleY(0);
     transition: transform .5s;
 }
@@ -250,7 +250,7 @@ header h5 {
 }
 
 .projects .project-tile .details .content a {
-    color: #fff;
+    color: #ccd6f6;
     border: 1px solid #b2b2b2;
     border-radius: 23px;
     padding: 10px 20px;
