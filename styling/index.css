@@ -268,7 +268,7 @@ textarea {
     width: 100%;
     padding: 12px;
     border: none;
-    border-bottom: 1px solid lightgrey;
+    border-bottom: 1px solid #d0cdcd;
     background: transparent;
     margin-top: 6px;
     margin-bottom: 16px;
@@ -280,7 +280,7 @@ form input[type="text"]:focus,
 form input[type="email"]:focus,
 textarea:focus {
     outline: none;
-    border: 1px solid lightgrey;
+    border: 1px solid #d0cdcd;
 }
 
 .mail-link a {
